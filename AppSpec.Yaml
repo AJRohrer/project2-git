@@ -1,0 +1,11 @@
+version: 0.0
+
+os: linux
+
+files: 
+
+# You can specify one or more mappings in the files section.
+
+  - source: /
+
+    destination: /var/www/eCommerceSite
